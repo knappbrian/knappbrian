@@ -29,13 +29,3 @@ You can find a collection of my professional work, case studies, and projects on
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=knappbrian&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knappbrian&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=knappbrian&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
