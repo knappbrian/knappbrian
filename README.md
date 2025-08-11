@@ -16,9 +16,9 @@ You can find a collection of my professional work, case studies, and projects on
 
 ## Core Competencies
 
-* **Strategy & Business Intelligence:** Developing strategic plans, conducting due diligence, and mapping business continuity and risk.
-* **Data Analysis & Visualization:** Utilizing tools like R, Stata, Tableau, and Power BI to translate raw data into clear, compelling narratives.
-* **Economic Analysis:** Applying microeconomic, macroeconomic, and econometric principles to financial analysis and forecasting.
+* **Strategy & Business Intelligence**
+* **Exploratory Data Analysis & Visualization**
+* **Econometrics**
 
 ---
 
