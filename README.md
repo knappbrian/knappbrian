@@ -8,8 +8,6 @@ I am a strategy consultant with expertise in Economics, Data Analytics, and Busi
 
 ## Portfolio
 
-You can find a collection of my professional work, case studies, and projects on my portfolio site.
-
 ➡️ **[View My Portfolio](https://knappbrian.github.io)**
 
 ---
