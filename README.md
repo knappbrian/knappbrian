@@ -5,7 +5,7 @@ I'm an Economics and Data Analytics student at the University of Massachusetts D
 - 🎓 **Studying**: B.S. in Economics, Minor in Data Analytics
 - 🔭 **Working On**: My working paper on the effect of the beauty premium on weekly earnings.
 - 🌱 **Learning**: Always looking to sharpen my skills in data science and risk modeling.
-- 📫 **How to reach me**: [bknapp@umassd.edu](mailto:bknapp@umassd.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-url). 
+- 📫 **How to reach me**: [bknapp@umassd.edu](mailto:bknapp@umassd.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/brian-knapp). 
 ---
 
 ##  Portfolio
