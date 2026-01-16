@@ -2,9 +2,6 @@
 
 I'm an Economics and Data Analytics student at the University of Massachusetts Dartmouth (graduating December 2025) with a strong background in strategic planning and risk management. I'm passionate about leveraging data to solve complex problems, identify growth opportunities, and drive effective decision-making.
 
-- 🎓 **Studying**: B.S. in Economics, Minor in Data Analytics
-- 🔭 **Working On**: My working paper on the effect of the beauty premium on weekly earnings.
-- 🌱 **Learning**: Always looking to sharpen my skills in data science and risk modeling.
 - 📫 **How to reach me**: [bknapp@umassd.edu](mailto:bknapp@umassd.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/brian-knapp). 
 ---
 
@@ -36,5 +33,4 @@ My expertise spans across strategy, econometrics, and data analysis.
 
 ## ⚡ Fun Facts
 
--   When I'm not analyzing data, you can find me orienteering, playing rugby, or training my dog.
--   I'm also a fan of chess and a daily Wordle player.
+-   I'm a a fan of chess and a daily Wordle player.
